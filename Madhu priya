@@ -1,0 +1,10 @@
+# Food Share - Leftover Food Sharing Application
+
+This application connects restaurants, event organizers, and individuals with extra food to NGOs and people in need, minimizing food wastage.
+
+## Key Features:
+- User Registration & Login (Donors & Receivers)
+- Add Leftover Food Items (Quantity, Expiry Time, Location)
+- Browse Available Food Content
+- Claim / Request Food Cart System
+- Delivery / Pickup Coordination Tracker
